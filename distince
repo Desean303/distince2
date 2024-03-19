@@ -1,0 +1,18 @@
+
+Dr. Mo
+10:37 AM (0 minutes ago)
+to me
+
+def calcuate_health(health, damage, armor):
+    num1= armor*damage
+    num2= health-num1
+    print(num2)
+   
+calcuate_health(100,10,5)
+
+#---------------------------------
+def average(a, b, c, d, e):
+    sum = a+b+c+d+e
+    answer = sum/5
+   
+average(8,5,4,65,2)
